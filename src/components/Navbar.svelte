@@ -10,7 +10,7 @@
     <div class="right">
       <div class="home"><a href="#/">Home</a></div>
       <div class="projects"><a href="#/projects">Projects</a></div>
-      <div class="files"><a href="https://github.com/Percslol">GitHub</a></div>
+      <div class="files"><a href="https://github.com/Percslol target="_blank">GitHub</a></div>
     </div>
 </div>
 
